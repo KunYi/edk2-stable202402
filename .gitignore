@@ -5,3 +5,6 @@ Build/
 __pycache__/
 tags/
 .vscode/
+qemu/
+MdeModulePkg/CE7OSLoader.d*
+MdeModulePkg/Application/CE7OSLoader/
